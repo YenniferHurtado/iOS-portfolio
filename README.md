@@ -1,15 +1,15 @@
 # Guitar Tuner
 
-Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al tocar cada cuerda de la guitarra en la interfaz, despliega el sonido de la nota que corresponde de la guitarra y me muestra el acorde.
+Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al tocar cada cuerda de la guitarra en la interfaz, despliega el sonido de la nota que corresponde mostrando el acorde.
 
 <p align="center">
-<img src="images/guitarTuner1.png" width="230"  title="Word Guess">
+<img src="images/guitarTuner1.png" width="230"  title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/GuitarTuner2.png" width="230" title="Word Guess">
+<img src="images/GuitarTuner2.png" width="230" title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/GuitarTuner3.png" width="226" title="Word Guess">
+<img src="images/GuitarTuner3.png" width="226" title="Guitar Tuner">
 </p>
 
 
