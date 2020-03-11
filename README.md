@@ -42,12 +42,12 @@ Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al to
 <img src="images/coffe2.png" width="230" title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/coffe.png" width="230"  title="Guitar Tuner">
+<img src="images/coffee2.png" width="230"  title="Guitar Tuner">
 </p>
 
 
 
-# Guitar Tuner
+# Fruit List
 
 Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al tocar cada cuerda de la guitarra en la interfaz, despliega el sonido de la nota que corresponde mostrando el acorde.
 
@@ -72,7 +72,7 @@ Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al to
 
 
 
-# Guitar Tuner
+# Xylophone
 
 Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al tocar cada cuerda de la guitarra en la interfaz, despliega el sonido de la nota que corresponde mostrando el acorde.
 
