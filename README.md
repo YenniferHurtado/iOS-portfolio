@@ -39,7 +39,7 @@ Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al to
 <img src="images/coffee1.png" width="230"  title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/coffe2.png" width="230" title="Guitar Tuner">
+<img src="images/coffee2.png" width="230" title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="images/coffee3.png" width="230"  title="Guitar Tuner">
