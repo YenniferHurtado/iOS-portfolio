@@ -1,27 +1,3 @@
-# Guitar Tuner
-
-Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al tocar cada cuerda de la guitarra en la interfaz, despliega el sonido de la nota que corresponde mostrando el acorde.
-
-## Construido con 🛠️
-
-* [AudioToolBox](https://developer.apple.com/documentation/audiotoolbox) - Framework de Sonido
-* [Autolayout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html) - Manejador de constrains.
-
-## Repositorio 📖
-
-[GuitarTuner](https://github.com/YenniferHurtado/guitarTuner-app-swift) - Github Code
-
-<p align="center">
-<img src="images/guitarTuner1.png" width="230"  title="Guitar Tuner">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="images/GuitarTuner2.png" width="230" title="Guitar Tuner">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="images/GuitarTuner3.png" width="230" title="Guitar Tuner">
-</p>
-
-
 # Coffee Shop
 
 Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al tocar cada cuerda de la guitarra en la interfaz, despliega el sonido de la nota que corresponde mostrando el acorde.
@@ -42,7 +18,31 @@ Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al to
 <img src="images/coffee2.png" width="230" title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/coffee3.png" width="230"  title="Guitar Tuner">
+<img src="images/coffee3.png" width="230" title="Guitar Tuner">
+</p>
+
+
+# Guitar Tuner
+
+Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al tocar cada cuerda de la guitarra en la interfaz, despliega el sonido de la nota que corresponde mostrando el acorde.
+
+## Construido con 🛠️
+
+* [AudioToolBox](https://developer.apple.com/documentation/audiotoolbox) - Framework de Sonido
+* [Autolayout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html) - Manejador de constrains.
+
+## Repositorio 📖
+
+[GuitarTuner](https://github.com/YenniferHurtado/guitarTuner-app-swift) - Github Code
+
+<p align="center">
+<img src="images/guitartuner1.png" width="230"  title="Guitar Tuner">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="images/guitartuner2.png" width="230" title="Guitar Tuner">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="images/guitartuner3.png" width="230"  title="Guitar Tuner">
 </p>
 
 
@@ -62,13 +62,13 @@ Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al to
 [GuitarTuner](https://github.com/YenniferHurtado/guitarTuner-app-swift) - Github Code
 
 <p align="center">
-<img src="images/guitarTuner1.png" width="230"  title="Guitar Tuner">
+<img src="images/fruitlist.png" width="230"  title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/GuitarTuner2.png" width="230" title="Guitar Tuner">
+<img src="images/fruitlist.png" width="230" title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/GuitarTuner3.png" width="230" title="Guitar Tuner">
+<img src="images/fruitlist.png" width="230" title="Guitar Tuner">
 </p>
 
 
@@ -87,13 +87,13 @@ Guitar Tuner es una aplicación que funciona como un afinador de Guitarra, al to
 [GuitarTuner](https://github.com/YenniferHurtado/guitarTuner-app-swift) - Github Code
 
 <p align="center">
-<img src="images/guitarTuner1.png" width="230"  title="Guitar Tuner">
+<img src="images/xilophone.png" width="230"  title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/GuitarTuner2.png" width="230" title="Guitar Tuner">
+<img src="images/xilophone.png" width="230" title="Guitar Tuner">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/GuitarTuner3.png" width="230" title="Guitar Tuner">
+<img src="images/xilophone.png" width="230" title="Guitar Tuner">
 </p>
 
 
